@@ -1,0 +1,9 @@
+121.600:SBMT:Ground Marte
+133.350:SBMT:Tower Marte
+121.650:SBJD:Ground Jundiai
+118.750:SBJD:Tower Jundiai
+121.800:SDCO:Ground Sorocaba
+118.800:SDCO:Tower Sorocaba
+121.950:SBSJ:Ground Marte
+118.500:SBSJ:Tower Marte
+129.500:*APP:Sao Paulo Approach
